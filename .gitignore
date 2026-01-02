@@ -1,0 +1,4 @@
+# Ignore logs and environment files
+*.log
+.env
+.DS_Store
