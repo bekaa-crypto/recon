@@ -14,7 +14,6 @@ A professional, easy-to-use reconnaissance script for security assessments and b
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [Security & Responsible Disclosure](#security--responsible-disclosure)
-- [License](#license)
 
 ---
 
@@ -75,10 +74,13 @@ Contributions are welcome. Please open a pull request with a clear description a
 
 If you discover a security vulnerability, please contact the repository owner privately and provide sufficient detail to reproduce the issue. Do not publish details until a coordinated disclosure has occurred.
 
-## License
+## Screenshots & UI
 
-This project is available under the MIT License. See `LICENSE` for details (or request that I add a LICENSE file to this repository).
+This project generates an interactive HTML dashboard (`dashboard.html`) as part of its recon output. Example screenshots are stored in the `screenshots/` directory and can be referenced in this repository.
 
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+> Tip: After running the script, open the generated dashboard in your browser to explore findings visually.
 ---
 
-*Maintained by bekaa-crypto.*
+_Maintained by bekaa-crypto._
